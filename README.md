@@ -13,7 +13,7 @@
 
 <table><tr><td valign="top" width="33%">
 
-### Frontend
+### Database
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
