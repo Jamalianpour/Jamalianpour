@@ -1,4 +1,5 @@
-### <div align="center">I'm Mohammad Jamalianpour from Iran, a software engineer and project manager 👨‍💻 learning and working since 2011 🚀</div>
+### <div align="center">I'm Mohammad Jamalianpour**  
+📍 Based in Iran | 💻 **Software Engineer & Project Manager** | 🚀 **Building with code since 2011**  <\div>
 <div align="center">⚡ I Love to learn new things ⚡</div>
 
 <br/>
